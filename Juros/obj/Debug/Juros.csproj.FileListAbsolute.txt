@@ -1,0 +1,20 @@
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\bin\Debug\Juros.exe.config
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\bin\Debug\Juros.exe
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\bin\Debug\Juros.pdb
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\obj\Debug\Juros.Form1.resources
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\obj\Debug\Juros.Properties.Resources.resources
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\obj\Debug\Juros.csproj.GenerateResource.cache
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\obj\Debug\Juros.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\obj\Debug\Juros.exe
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\obj\Debug\Juros.pdb
+C:\Users\Rodrigo Xavier\Desktop\Juros\Juros\obj\Debug\Juros.csprojAssemblyReference.cache
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\bin\Debug\Juros.exe.config
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\bin\Debug\Juros.exe
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\bin\Debug\Juros.pdb
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\obj\Debug\Juros.csprojAssemblyReference.cache
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\obj\Debug\Juros.Form1.resources
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\obj\Debug\Juros.Properties.Resources.resources
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\obj\Debug\Juros.csproj.GenerateResource.cache
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\obj\Debug\Juros.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\obj\Debug\Juros.exe
+C:\Users\Rodrigo Xavier\Desktop\Progrmas desenvolvidos\Juros\Juros\obj\Debug\Juros.pdb
